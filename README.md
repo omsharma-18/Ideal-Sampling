@@ -1,11 +1,14 @@
 # Ideal-Sampling
 **Aim :** 
+
 To perform ideal sampling on a continuous-time signal and reconstruct it using Python
 
 **Apparatus required :** 
+
 Python 3.x
 
 **Program:**
+
 #Impulse Sampling
 
 import numpy as np
@@ -79,6 +82,7 @@ plt.grid(True)
 plt.legend()
 
 plt.show()
+
 **Output Waveform :**
 ![image](https://github.com/user-attachments/assets/698c0d1a-6b4f-4abc-942d-343ff538164b)
 
