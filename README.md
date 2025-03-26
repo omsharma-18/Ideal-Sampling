@@ -84,7 +84,9 @@ plt.legend()
 plt.show()
 
 **Output Waveform :**
+
 ![image](https://github.com/user-attachments/assets/698c0d1a-6b4f-4abc-942d-343ff538164b)
 
 **Results :**
+
 Thus,the ideal sampling signal is performed using python.
